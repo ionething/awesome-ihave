@@ -2,7 +2,7 @@
 
 > 网上有很多有价值的资源，经常浏览可以获取技术知识、提高技术水平。
 
-[awesome-ihave](https://ionething.github.io/awesome-ihave/index.html)
+[awesome-ihave](https://ionething.github.io/awesome-ihave/)
 
 ## 开发资源
 
@@ -34,7 +34,7 @@
 
 ## 网站
 
-### 论坛
+### 论坛/网站
 
 - [Java社区](http://www.oracle.com/technetwork/cn/community/java/index.html)
 - [IBM技术论坛](https://www.ibm.com/developerworks/cn/topics/)
@@ -89,6 +89,10 @@
 
 - [Nginx开发从入门到精通](http://tengine.taobao.org/book/index.html)
 
+### 前端
+
+- [阮一峰JavaScript](http://javascript.ruanyifeng.com/)
+
 ## 软件
 
 ### mac
@@ -99,12 +103,9 @@
 
 ## 架构
 
-## 量化
+## 其他
 
-[Link](note/quanti.md)
+#### [量化](page/quanti.md)
 
-## 面试
+#### [面试](page/interview.md)
 
-### 基础
-
-### Java
