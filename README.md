@@ -86,11 +86,13 @@
 ### 开源书籍资源
 
 - [编程类开放书籍荟萃](https://linuxstory.org/free-chinese-programming-books/)
+- [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
 - [love2.io](https://love2.io/)
 
 ### 期刊
 
 - [阮一峰weekly](https://github.com/ruanyf/weekly)
+- [HelloGitHub](https://www.hellogithub.com/)
 
 ### Web
 
@@ -100,11 +102,17 @@
 
 - [阮一峰JavaScript](http://javascript.ruanyifeng.com/)
 
+### 技能
+
+- [为程序员编写的英语学习指南](https://github.com/yujiangshui/A-Programmers-Guide-to-English)
+
 ## 软件
 
 ### mac
 
 - [Homebrew](https://brew.sh/) - brew brew brew
+- oh my zsh
+- Alfred3
 - SPlayer
 - AirServer - Apple全家桶的福音
 - Dr.Cleaner - 洗洗更健康
@@ -122,12 +130,28 @@
 - Kedis/kdm
 - Sloth - 文件及应用运行进程管理
 - Termius - SSH客户端，能保存密码
+- Surge 3
+- Charles
+- OmniGraffle - 流程图工具
 
 ### chrome插件
 
 ### windows
 
+- MobaXterm
 - Xshell
+- [Babun](http://babun.github.io/)
+- StrokeIt
+- Everything
+- Clipx - 剪贴板工具
+- Snipaste - 截图工具
+- BeyondCompare - 比较工具
+- ALMRun - 快速启动工具
+- VMware
+- Wireshark
+- rapidee
+- [rufus](https://github.com/pbatard/rufus)
+- [dism++](http://www.chuyu.me/zh-Hans/index.html)
 
 ### 系统不限
 
@@ -135,24 +159,33 @@
 - CCleaner - 梨子家的全家桶也不错
 - Visual Studio Code - 不管要不要编程，都抛弃记事本吧，也不要用Notepad++
 - Team Viewer - 比VNC方便简单
+- VirtualBox
 
 ### 技术
 
 - JetBrains全家桶
+- Chrome Canary
 - [tldr](https://tldr.sh/) - Too long, Don't read
 - SourceTree - Git桌面客户端，还有github desktop和gitkraken
 - Studio 3T / Robo 3T - MongoDB必备客户端
 - Navicat - 数据库必备
+- medis
 - FileZilla
+- Postman
 - DBeaver
 - Docker
+- JProfile - JVM分析工具
+- ZeroBrane
 
 ### Idea/pc/goland插件
+
+- JRebel
 
 ### 可以玩玩
 
 - Nextcloud
 - Seafile
+- Alfresco
 
 ### 科学冲浪
 
@@ -182,3 +215,4 @@
 
 #### [知乎](page/zhihu.md)
 
+#### [书架](page/books.md)
