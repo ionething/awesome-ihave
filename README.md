@@ -135,6 +135,10 @@
 
 ### chrome插件
 
+- 油猴脚本
+- Proxy SwithyOmega
+- Octotree
+
 ### windows
 
 - MobaXterm
