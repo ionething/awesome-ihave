@@ -70,7 +70,6 @@
 ### 导航
 
 - [程序员导航](http://code.giffox.com/) - 还来得及
-
 - [老司机导航](http://www.giffox.com/) - 真的来不及了
 
 ### 在线工具
@@ -201,6 +200,13 @@
 
 ### App
 
+### 合集
+
+- [小众软件-我最喜欢](https://love.appinn.com/)
+- [Awesome-Windows](https://github.com/Awesome-Windows/Awesome)
+- [Awesome-macOS](https://github.com/iCHAIT/awesome-macOS)
+- [windows apps that amaze us](https://amazing-apps.gitbook.io/windows-apps-that-amaze-us)
+
 ## 架构
 
 ## 其他
@@ -216,3 +222,4 @@
 #### [知乎](page/zhihu.md)
 
 #### [书架](page/books.md)
+
