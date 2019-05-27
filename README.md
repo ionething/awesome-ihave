@@ -16,9 +16,18 @@
 
 ### 前端
 
+- LayUI
+- Bootstrap [中文网](http://www.bootcss.com/)
+- [ZUI](http://zui.sexy)
+- H-ui
+- Bulma [阮一峰：CSS 框架 Bulma 教程](http://www.ruanyifeng.com/blog/2017/10/bulma.html)
+- webpack [中文网](https://www.webpackjs.com/)
+
 ## 开源项目
 
 ### Spring
+
+- [Sping Initializr](https://start.spring.io)
 
 ### Github
 
@@ -29,6 +38,10 @@
 ## Linux
 
 ## Awesome
+
+### [伯乐在线资源](http://hao.jobbole.com/) [GitHub](https://github.com/jobbole)
+
+- [Java资源大全中文版](https://github.com/jobbole/awesome-java-cn)
 
 ## 笔记
 
@@ -87,11 +100,17 @@
 - [编程类开放书籍荟萃](https://linuxstory.org/free-chinese-programming-books/)
 - [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
 - [love2.io](https://love2.io/)
+- [Google 开源项目风格指南 (中文版)](https://zh-google-styleguide.readthedocs.io/en/latest/)  托管在[GitHub](https://github.com/zh-google-styleguide/zh-google-styleguide)
 
 ### 期刊
 
 - [阮一峰weekly](https://github.com/ruanyf/weekly)
 - [HelloGitHub](https://www.hellogithub.com/)
+
+### 语言
+
+- [Go 入门指南](https://github.com/Unknwon/the-way-to-go_ZH_CN)
+- [Go语言高级编程](https://github.com/chai2010/advanced-go-programming-book)
 
 ### Web
 
@@ -101,9 +120,23 @@
 
 - [阮一峰JavaScript](http://javascript.ruanyifeng.com/)
 
+### 后端
+
+### 手册
+
+- [阿里巴巴Java开发手册](https://yq.aliyun.com/articles/656256)
+- [阿里巴巴Android开发手册](https://yq.aliyun.com/articles/499254)
+- [阿里云Redis规范](https://yq.aliyun.com/articles/531067)
+- 
+
+### 其他
+
+- [南瓜书](https://github.com/datawhalechina/pumpkin-book) 《机器学习》（西瓜书）公式推导解析
+
 ### 技能
 
 - [为程序员编写的英语学习指南](https://github.com/yujiangshui/A-Programmers-Guide-to-English)
+- [全栈增长工程师指南](https://github.com/phodal/growth-ebook)
 
 ## 软件
 
@@ -155,6 +188,7 @@
 - rapidee
 - [rufus](https://github.com/pbatard/rufus)
 - [dism++](http://www.chuyu.me/zh-Hans/index.html)
+- Total Commander
 
 ### 系统不限
 
@@ -179,6 +213,7 @@
 - Docker
 - JProfile - JVM分析工具
 - ZeroBrane
+- Kettle
 
 ### Idea/pc/goland插件
 
@@ -222,6 +257,8 @@
 #### [Cheatsheet](page/cheatsheet.md)
 
 #### [经典文章](page/article.md)
+
+#### [博客文章](page/blog.md)
 
 #### [知乎](page/zhihu.md)
 
