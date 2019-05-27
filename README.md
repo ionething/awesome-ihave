@@ -43,8 +43,9 @@
 
 ## Awesome
 
-### [伯乐在线资源](http://hao.jobbole.com/) [GitHub](https://github.com/jobbole)
+### 伯乐在线资源
 
+- [合集](http://hao.jobbole.com/) [github](https://github.com/jobbole)
 - [Java资源大全中文版](https://github.com/jobbole/awesome-java-cn)
 
 ## 笔记
@@ -62,6 +63,7 @@
 - [深度开源](http://www.open-open.com/)
 - [伯乐在线](http://www.jobbole.com/)
 - [Java1234](http://www.java1234.com/)
+- [运维生存时间](http://www.ttlsa.com/)
 
 ### 博客
 
