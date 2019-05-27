@@ -35,6 +35,10 @@
 
 ## 中间件
 
+### 常用
+
+- Consul
+
 ## Linux
 
 ## Awesome
@@ -65,6 +69,7 @@
 - [阮一峰](http://www.ruanyifeng.com/blog/)
 - [Hollis](http://www.hollischuang.com/)
 - [stormzhang](http://stormzhang.com/)
+- [程序猿DD](http://blog.didispace.com/)
 
 ### 文档
 
@@ -127,7 +132,6 @@
 - [阿里巴巴Java开发手册](https://yq.aliyun.com/articles/656256)
 - [阿里巴巴Android开发手册](https://yq.aliyun.com/articles/499254)
 - [阿里云Redis规范](https://yq.aliyun.com/articles/531067)
-- 
 
 ### 其他
 
