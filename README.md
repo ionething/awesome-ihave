@@ -250,6 +250,7 @@
 - [小众软件-我最喜欢](https://love.appinn.com/)
 - [Awesome-Windows](https://github.com/Awesome-Windows/Awesome)
 - [Awesome-macOS](https://github.com/iCHAIT/awesome-macOS)
+- [Awesome Mac](https://github.com/jaywcjlove/awesome-mac)
 - [windows apps that amaze us](https://amazing-apps.gitbook.io/windows-apps-that-amaze-us)
 
 ## 架构
