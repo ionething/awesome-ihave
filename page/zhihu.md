@@ -12,6 +12,8 @@
 - [有哪些堪称「神器」，却鲜为人知的软件/网站/互联网服务？](https://www.zhihu.com/question/36546814)
 - [你用过哪些强大的快捷键？](https://www.zhihu.com/question/276786944)
 - [计算机专业必读哪些经典书籍？](https://www.zhihu.com/question/273973062)
+- [程序员们平时都喜欢逛什么论坛呢？](https://www.zhihu.com/question/27145069)
+- [有哪些鲜为人知，但是很有意思的网站？](https://www.zhihu.com/question/26009615)
 
 ## 回答
 
