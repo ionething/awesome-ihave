@@ -195,6 +195,7 @@
 - [rufus](https://github.com/pbatard/rufus)
 - [dism++](http://www.chuyu.me/zh-Hans/index.html)
 - Total Commander
+- 盘姬工具箱
 
 ### 系统不限
 
