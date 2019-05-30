@@ -10,6 +10,8 @@
 - [最良心的软件可以良心到什么程度？](https://www.zhihu.com/question/52157612)
 - [有哪些软件堪称神器，却不为大众所知？](https://zhuanlan.zhihu.com/p/300735799)
 - [有哪些堪称「神器」，却鲜为人知的软件/网站/互联网服务？](https://www.zhihu.com/question/36546814)
+- [你用过哪些强大的快捷键？](https://www.zhihu.com/question/276786944)
+- [计算机专业必读哪些经典书籍？](https://www.zhihu.com/question/273973062)
 
 ## 回答
 
@@ -34,3 +36,4 @@
 - [知乎机构号团队](https://www.zhihu.com/people/St.Pancras/activities)
 - [少数派](https://www.zhihu.com/org/shao-shu-pai-46/activities)
 - [腾讯技术工程](https://www.zhihu.com/org/teng-xun-ji-zhu-gong-cheng/activities)
+- [壹伴助手](https://www.zhihu.com/org/yi-ban-31-72/activities)
