@@ -24,6 +24,10 @@
 - Bulma [阮一峰：CSS 框架 Bulma 教程](http://www.ruanyifeng.com/blog/2017/10/bulma.html)
 - webpack [中文网](https://www.webpackjs.com/)
 
+### Node
+
+- nrm - 一键切换npm源
+
 ## 开源项目
 
 ### Spring
@@ -34,13 +38,29 @@
 
 ### Gitee
 
-## 数据库中间件
+## 数据库和中间件
 
 ### 常用
 
 - Consul
 
+### RPC
+
+### 微服务
+
+### 数据库类
+
+- MyCat
+
 ## Linux
+
+### 文档
+
+- [CentOS - HowTos](https://wiki.centos.org/zh/HowTos)
+
+### 工具
+
+- [snapcraft](https://snapcraft.io/) - 就是墙内速度有点慢
 
 ### 容器
 
@@ -48,12 +68,19 @@
 - Docker Compose
 - Portainer
 
+### 桌面
+
 ## Awesome
 
 ### 伯乐在线资源
 
 - [合集](http://hao.jobbole.com/) [github](https://github.com/jobbole)
 - [Java资源大全中文版](https://github.com/jobbole/awesome-java-cn)
+- [C++ 资源大全中文版](https://github.com/jobbole/awesome-cpp-cn)
+
+### 其他
+
+- [Awesome Quant](https://github.com/thuquant/awesome-quant) - 一份精心挑选的中文Quant相关资源索引
 
 ## 笔记
 
@@ -107,6 +134,19 @@
 
 ## 资源
 
+### 镜像
+
+- [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/)
+- [OPSX - 阿里云镜像站](https://opsx.alibaba.com/mirror)
+- [中科大开源镜像站](http://mirrors.ustc.edu.cn/)
+- [华为开源镜像站](https://mirrors.huaweicloud.com/)
+- [网易开源镜像站](http://mirrors.163.com/)
+- [上海交通大学软件源镜像服务](https://mirrors.sjtug.sjtu.edu.cn/)
+- [浙江大学开源镜像站](http://mirrors.zju.edu.cn/)
+- [北京交通大学自由与开源软件镜像站](https://mirror.bjtu.edu.cn/)
+- [We  - 开源镜像站](http://mirrors.neusoft.edu.cn/) - 大连东软
+- [同济大学开源镜像](https://mirrors.tongji.edu.cn/public/)
+
 ## 书籍
 
 ### 开源书籍资源
@@ -128,6 +168,7 @@
 - [Go 入门指南](https://github.com/Unknwon/the-way-to-go_ZH_CN)
 - [Go语言高级编程](https://github.com/chai2010/advanced-go-programming-book)
 - [C++并发编程(中文版)](https://legacy.gitbook.com/book/chenxiaowei/cpp_concurrency_in_action/details)
+- [C++ Primer Plus （第 6 版）中文版](https://shenjun.gitbooks.io/c-primer-plus/content/)
 
 ### Web
 
@@ -201,6 +242,7 @@
 - BeyondCompare - 比较工具
 - ALMRun - 快速启动工具
 - VMware
+- AlwaysUp
 - Wireshark
 - rapidee
 - [rufus](https://github.com/pbatard/rufus)
@@ -264,6 +306,8 @@
 - [Awesome-macOS](https://github.com/iCHAIT/awesome-macOS)
 - [Awesome Mac](https://github.com/jaywcjlove/awesome-mac)
 - [windows apps that amaze us](https://amazing-apps.gitbook.io/windows-apps-that-amaze-us)
+
+### 站点
 
 ## 架构
 
