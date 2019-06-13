@@ -127,6 +127,7 @@
 
 - [Go 入门指南](https://github.com/Unknwon/the-way-to-go_ZH_CN)
 - [Go语言高级编程](https://github.com/chai2010/advanced-go-programming-book)
+- [C++并发编程(中文版)](https://legacy.gitbook.com/book/chenxiaowei/cpp_concurrency_in_action/details)
 
 ### Web
 
