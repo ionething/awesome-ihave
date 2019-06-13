@@ -9,6 +9,7 @@
 ### Java
 
 - [mvnrepository](http://mvnrepository.com/)
+- [vjtools](https://github.com/vipshop/vjtools/)
 
 ### Golang
 
@@ -33,13 +34,19 @@
 
 ### Gitee
 
-## 中间件
+## 数据库中间件
 
 ### 常用
 
 - Consul
 
 ## Linux
+
+### 容器
+
+- Docker
+- Docker Compose
+- Portainer
 
 ## Awesome
 
@@ -108,6 +115,8 @@
 - [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
 - [love2.io](https://love2.io/)
 - [Google 开源项目风格指南 (中文版)](https://zh-google-styleguide.readthedocs.io/en/latest/)  托管在[GitHub](https://github.com/zh-google-styleguide/zh-google-styleguide)
+- [极客学院wiki](http://wiki.jikexueyuan.com/)
+- [看云](https://www.kancloud.cn/explore)
 
 ### 期刊
 
@@ -143,6 +152,7 @@
 
 - [为程序员编写的英语学习指南](https://github.com/yujiangshui/A-Programmers-Guide-to-English)
 - [全栈增长工程师指南](https://github.com/phodal/growth-ebook)
+- [程序员效率提升工具汇总](https://www.kancloud.cn/maozhenggang/monkey-cheats/93898)
 
 ## 软件
 
