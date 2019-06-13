@@ -180,6 +180,10 @@
 
 ### 后端
 
+### 操作系统
+
+- [Linux就该这么学](https://www.linuxprobe.com/chapter-00.html)
+
 ### 手册
 
 - [阿里巴巴Java开发手册](https://yq.aliyun.com/articles/656256)
