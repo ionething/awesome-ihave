@@ -27,6 +27,7 @@
 - [知乎上「被收藏最多」的 Top 100 回答](https://zhuanlan.zhihu.com/p/21332033)
 - [15款Windows绝赞良心软件，电脑必备软件看这一篇就够了，让你的PC好用99%](https://zhuanlan.zhihu.com/p/58390470)
 - [各种 IntelliJ IDEA 酷炫插件推荐](https://zhuanlan.zhihu.com/p/63754979)
+- [30个私家珍藏的网站 你想要的任何资源全部都有](https://zhuanlan.zhihu.com/p/48061080)
 
 ## 答主
 
