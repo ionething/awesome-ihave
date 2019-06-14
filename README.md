@@ -310,8 +310,13 @@
 - [Awesome-macOS](https://github.com/iCHAIT/awesome-macOS)
 - [Awesome Mac](https://github.com/jaywcjlove/awesome-mac)
 - [windows apps that amaze us](https://amazing-apps.gitbook.io/windows-apps-that-amaze-us)
+- [Mac 软件目录，优秀 Mac 软件都在这！](https://mp.weixin.qq.com/s/jIJ5Rd53EEuMTvYy4p7ZiQ)
 
 ### 站点
+
+- [精品MAC应用分享](https://xclient.info/)
+- [马可菠萝 - 分享你喜欢的MAC应用](https://www.macbl.com/)
+- [91hcc 最佳Mac破解软件](https://www.91h.cc/)
 
 ## 架构
 
