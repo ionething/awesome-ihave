@@ -110,6 +110,7 @@
 ### 文档
 
 - [Mac快捷键](https://support.apple.com/zh-cn/HT201236)
+- [微软官方文档](https://docs.microsoft.com/zh-cn/)
 
 ### 教程
 
@@ -154,9 +155,9 @@
 - [编程类开放书籍荟萃](https://linuxstory.org/free-chinese-programming-books/)
 - [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
 - [love2.io](https://love2.io/)
-- [Google 开源项目风格指南 (中文版)](https://zh-google-styleguide.readthedocs.io/en/latest/)  托管在[GitHub](https://github.com/zh-google-styleguide/zh-google-styleguide)
 - [极客学院wiki](http://wiki.jikexueyuan.com/)
 - [看云](https://www.kancloud.cn/explore)
+- [Gitbook@wizardforcel](https://legacy.gitbook.com/@wizardforcel)
 
 ### 期刊
 
@@ -189,6 +190,8 @@
 - [阿里巴巴Java开发手册](https://yq.aliyun.com/articles/656256)
 - [阿里巴巴Android开发手册](https://yq.aliyun.com/articles/499254)
 - [阿里云Redis规范](https://yq.aliyun.com/articles/531067)
+- [Google Style Guides](https://github.com/google/styleguide)
+- [Google 开源项目风格指南 (中文版)](https://zh-google-styleguide.readthedocs.io/en/latest/)  托管在[GitHub](https://github.com/zh-google-styleguide/zh-google-styleguide)
 
 ### 其他
 
