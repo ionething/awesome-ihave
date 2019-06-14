@@ -177,6 +177,7 @@
 - [Go语言高级编程](https://github.com/chai2010/advanced-go-programming-book)
 - [C++并发编程(中文版)](https://legacy.gitbook.com/book/chenxiaowei/cpp_concurrency_in_action/details)
 - [C++ Primer Plus （第 6 版）中文版](https://shenjun.gitbooks.io/c-primer-plus/content/)
+- [Boost C++库](https://wizardforcel.gitbooks.io/the-boost-cpp-libraries/content/index.html)
 
 ### Web
 
