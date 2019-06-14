@@ -86,6 +86,13 @@
 
 ## 网站
 
+### 技术社区
+
+- [阿里中间件团队博客](http://jm.taobao.org/)
+- [阿里技术](https://102.alibaba.com/)
+- [美团技术团队](https://tech.meituan.com/)
+- [有赞技术团队](https://tech.youzan.com/)
+
 ### 论坛/网站
 
 - [Java社区](http://www.oracle.com/technetwork/cn/community/java/index.html)
