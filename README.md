@@ -120,6 +120,12 @@
 
 - [Mac快捷键](https://support.apple.com/zh-cn/HT201236)
 - [微软官方文档](https://docs.microsoft.com/zh-cn/)
+- [MDN web docs](https://developer.mozilla.org/zh-CN/)
+- [腾讯云开发者手册](https://cloud.tencent.com/developer/devdocs)
+
+- [思否](https://docs.segmentfault.com/)
+- [阿里云-云栖-开发者资源](https://help.aliyun.com/learn/developer.html)
+- [Google中国开发者](https://developers.google.cn/china/)
 
 ### 教程
 
@@ -130,6 +136,7 @@
 - [实验楼](https://www.shiyanlou.com/)
 - [LintCode](http://www.lintcode.com/zh-cn/)
 - [易百教程](http://www.yiibai.com/)
+- [Digital Ocean tutorials](https://www.digitalocean.com/community/tutorials)
 
 ### 导航
 
