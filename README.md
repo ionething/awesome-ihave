@@ -142,6 +142,7 @@
 
 - [程序员导航](http://code.giffox.com/) - 还来得及
 - [老司机导航](http://www.giffox.com/) - 真的来不及了
+- [gitnavi](http://www.gitnavi.com/)
 
 ### 在线工具
 
