@@ -114,6 +114,7 @@
 - [Hollis](http://www.hollischuang.com/)
 - [stormzhang](http://stormzhang.com/)
 - [程序猿DD](http://blog.didispace.com/)
+- [更多>>](page/blog.md)
 
 ### 文档
 
