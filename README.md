@@ -151,6 +151,12 @@
 - [API搜索](https://devdocs.io/)
 - [在线工具-程序员工具箱](http://tool.lu/)
 
+### 信息
+
+- [全国标准信息公共服务平台](http://www.std.gov.cn/)
+- [证券期货信息网](http://www.zlinc.cn/)
+- [中国资本市场标准网](http://www.csisc.cn)
+
 ## 资源
 
 ### 镜像
