@@ -31,13 +31,34 @@
 
 ## 开源项目
 
+> 有的开源项目也常用作生产级别的中间件，优先展示开源
+
+### 社区
+
+- [Apache](https://github.com/apache)
+- [Google](https://opensource.google.com/)（[github](https://github.com/google)）
+- [Alibaba Open Source](https://github.com/alibaba)
+- [Spring](https://github.com/spring-projects)
+- [Netflix Open Source Platform](https://github.com/netflix)
+- [腾讯开源](https://opensource.tencent.com/)
+- [百度](https://github.com/baidu)
+
+### Apache
+
+- [incubator-shardingsphere](https://github.com/apache/incubator-shardingsphere) [官方文档](https://shardingsphere.apache.org/document/current/cn/overview/)
+
 ### Spring
 
 - [Sping Initializr](https://start.spring.io)
 
 ### Github
 
+- [Apollo（阿波罗）](https://github.com/ctripcorp/apollo)
+- [Saturn](https://github.com/vipshop/Saturn) - 唯品会分布式任务调度平台，在当当的elastic-job的基础上开发
+
 ### Gitee
+
+### 其他
 
 ## 数据库和中间件
 
@@ -94,6 +115,7 @@
 - [阿里技术](https://102.alibaba.com/)
 - [美团技术团队](https://tech.meituan.com/)
 - [有赞技术团队](https://tech.youzan.com/)
+- [字节跳动技术博客](https://techblog.toutiao.com/)
 
 ### 论坛/网站
 
