@@ -283,6 +283,8 @@
 - 油猴脚本
 - Proxy SwithyOmega
 - Octotree
+- FireShot
+- Pocket
 
 ### windows
 
