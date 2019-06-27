@@ -107,6 +107,15 @@
 
 ## 笔记
 
+### 面试
+
+- [C/C++ 技术面试基础知识总结](https://github.com/huihut/interview)
+
+### 其他
+
+- [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
+- [jaywcjlove/handbook](https://github.com/jaywcjlove/handbook)
+
 ## 网站
 
 ### 技术社区
@@ -152,6 +161,7 @@
 
 ### 教程
 
+- [C语言中文网教程](http://c.biancheng.net/sitemap/) [C语言入门教程](http://c.biancheng.net/c/) [C++入门教程](http://c.biancheng.net/cplus/)
 - [优程网](http://uprogrammer.cn/)
 - [菜鸟技术](http://www.runoob.com/)
 - [人人编程](http://www.renren.io/)
@@ -172,12 +182,14 @@
 - [在线工具](http://tool.oschina.net/)
 - [API搜索](https://devdocs.io/)
 - [在线工具-程序员工具箱](http://tool.lu/)
+- [选择一个开源软件协议](http://choosealicense.online/)
 
 ### 信息
 
 - [全国标准信息公共服务平台](http://www.std.gov.cn/)
 - [证券期货信息网](http://www.zlinc.cn/)
 - [中国资本市场标准网](http://www.csisc.cn)
+- [证券期货市场失信记录查询平台](http://neris.csrc.gov.cn/shixinchaxun/honestyObj/query.do)
 
 ## 资源
 
@@ -209,6 +221,8 @@
 
 - [阮一峰weekly](https://github.com/ruanyf/weekly)
 - [HelloGitHub](https://www.hellogithub.com/)
+- [早报](https://github.com/sorrycc/zaobao)
+- [码农周刊](https://weekly.manong.io/) - 史上最全的编程学习资料合集
 
 ### 语言
 
