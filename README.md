@@ -369,6 +369,11 @@
 
 ### App
 
+### 装机
+
+- [微PE工具箱](http://www.wepe.com.cn/download.html)
+- [PE工具下载](http://pe.udashi.com/)
+
 ### 合集
 
 - [小众软件-我最喜欢](https://love.appinn.com/)
