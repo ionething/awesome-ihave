@@ -138,6 +138,7 @@
 - [伯乐在线](http://www.jobbole.com/)
 - [Java1234](http://www.java1234.com/)
 - [运维生存时间](http://www.ttlsa.com/)
+- [Linux中国](https://linux.cn/)
 
 ### 博客
 
