@@ -255,6 +255,8 @@
 - [Google Style Guides](https://github.com/google/styleguide)
 - [Google 开源项目风格指南 (中文版)](https://zh-google-styleguide.readthedocs.io/en/latest/)  托管在[GitHub](https://github.com/zh-google-styleguide/zh-google-styleguide)
 
+- [C++ 参考手册](https://zh.cppreference.com/w/cpp)
+
 ### 其他
 
 - [南瓜书](https://github.com/datawhalechina/pumpkin-book) 《机器学习》（西瓜书）公式推导解析
