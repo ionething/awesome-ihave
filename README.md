@@ -110,6 +110,7 @@
 ### 面试
 
 - [C/C++ 技术面试基础知识总结](https://github.com/huihut/interview)
+- [C/C++ 面试基础知识总结](https://www.bookstack.cn/read/cpp-interview/README.md)
 
 ### 其他
 
@@ -185,12 +186,9 @@
 - [在线工具-程序员工具箱](http://tool.lu/)
 - [选择一个开源软件协议](http://choosealicense.online/)
 
-### 信息
+### 学习
 
-- [全国标准信息公共服务平台](http://www.std.gov.cn/)
-- [证券期货信息网](http://www.zlinc.cn/)
-- [中国资本市场标准网](http://www.csisc.cn)
-- [证券期货市场失信记录查询平台](http://neris.csrc.gov.cn/shixinchaxun/honestyObj/query.do)
+- [力扣](https://leetcode-cn.com/)
 
 ## 资源
 
@@ -217,6 +215,8 @@
 - [极客学院wiki](http://wiki.jikexueyuan.com/)
 - [看云](https://www.kancloud.cn/explore)
 - [Gitbook@wizardforcel](https://legacy.gitbook.com/@wizardforcel)
+- [书栈网](https://www.bookstack.cn/)
+- [语鹊](https://www.yuque.com/)
 
 ### 期刊
 
@@ -259,6 +259,7 @@
 
 ### 其他
 
+- [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-CN.md)
 - [南瓜书](https://github.com/datawhalechina/pumpkin-book) 《机器学习》（西瓜书）公式推导解析
 
 ### 技能
