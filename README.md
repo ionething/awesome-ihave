@@ -101,6 +101,10 @@
 - [Java资源大全中文版](https://github.com/jobbole/awesome-java-cn)
 - [C++ 资源大全中文版](https://github.com/jobbole/awesome-cpp-cn)
 
+### 后端
+
+- [后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)
+
 ### 其他
 
 - [Awesome Quant](https://github.com/thuquant/awesome-quant) - 一份精心挑选的中文Quant相关资源索引
