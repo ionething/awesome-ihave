@@ -209,6 +209,11 @@
 - [We  - 开源镜像站](http://mirrors.neusoft.edu.cn/) - 大连东软
 - [同济大学开源镜像](https://mirrors.tongji.edu.cn/public/)
 
+### 系统
+
+- [MSDN, 我告诉你](https://msdn.itellyou.cn/)
+- [Chrome OS](http://getchrome.eu)
+
 ## 书籍
 
 ### 开源书籍资源
