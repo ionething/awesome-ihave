@@ -22,6 +22,10 @@
 
 - [哈嘿！](https://www.hahack.com/)
 
+### 折腾
+
+- [小z博客](https://www.xiaoz.me/) 生命不息，吾将折腾不止。
+
 ## 合集
 
 ### 精选

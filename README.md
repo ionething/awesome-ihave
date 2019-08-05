@@ -29,6 +29,12 @@
 
 - nrm - 一键切换npm源
 
+### C/C++
+
+- [Boost](https://www.boost.org/) 准STL
+- [spdlog](https://github.com/gabime/spdlog) Fast C++ logging library
+- [libevent](https://libevent.org/) [开源](https://github.com/libevent/libevent)的事件驱动事件通知库
+
 ## 开源项目
 
 > 有的开源项目也常用作生产级别的中间件，优先展示开源
@@ -46,6 +52,7 @@
 ### Apache
 
 - [incubator-shardingsphere](https://github.com/apache/incubator-shardingsphere) [官方文档](https://shardingsphere.apache.org/document/current/cn/overview/)
+- [Thrift](http://thrift.apache.org/)
 
 ### Spring
 
@@ -238,6 +245,7 @@
 
 - [Go 入门指南](https://github.com/Unknwon/the-way-to-go_ZH_CN)
 - [Go语言高级编程](https://github.com/chai2010/advanced-go-programming-book)
+- [Go语言标准库](https://books.studygolang.com/The-Golang-Standard-Library-by-Example/)
 - [C++并发编程(中文版)](https://legacy.gitbook.com/book/chenxiaowei/cpp_concurrency_in_action/details)
 - [C++ Primer Plus （第 6 版）中文版](https://shenjun.gitbooks.io/c-primer-plus/content/)
 - [Boost C++库](https://wizardforcel.gitbooks.io/the-boost-cpp-libraries/content/index.html)
