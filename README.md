@@ -207,10 +207,12 @@
 ### 学习
 
 - [力扣](https://leetcode-cn.com/)
+- [ApacheCN 学习资源](http://www.apachecn.org/)
 
 ### 公开课
 
 - [机器学习速成课程：使用 TensorFlow API](https://developers.google.com/machine-learning/crash-course/)
+- [计算机公开课推荐](https://github.com/apachecn/awesome-cs-courses-zh)
 
 ## 资源
 
@@ -289,6 +291,12 @@
 
 - [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-CN.md)
 - [南瓜书](https://github.com/datawhalechina/pumpkin-book) 《机器学习》（西瓜书）公式推导解析
+- [网络基本功系列](https://wizardforcel.gitbooks.io/network-basic/content/index.html)
+
+### 算法
+
+- [编程之法：面试和算法心得](https://wizardforcel.gitbooks.io/the-art-of-programming-by-july/content/)
+- [十大经典排序算法](https://sort.hust.cc/)
 
 ### 技能
 
