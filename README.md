@@ -208,6 +208,10 @@
 
 - [力扣](https://leetcode-cn.com/)
 
+### 公开课
+
+- [机器学习速成课程：使用 TensorFlow API](https://developers.google.com/machine-learning/crash-course/)
+
 ## 资源
 
 ### 镜像
