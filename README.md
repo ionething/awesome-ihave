@@ -35,6 +35,10 @@
 - [spdlog](https://github.com/gabime/spdlog) Fast C++ logging library
 - [libevent](https://libevent.org/) [开源](https://github.com/libevent/libevent)的事件驱动事件通知库
 
+### Vue
+
+- [表单设计器](https://saodaye.com/)
+
 ## 开源项目
 
 > 有的开源项目也常用作生产级别的中间件，优先展示开源
@@ -91,6 +95,7 @@
 ### 工具
 
 - [snapcraft](https://snapcraft.io/) - 就是墙内速度有点慢
+- [nmap](https://nmap.org/) [ncat](https://nmap.org/ncat/) [nping](https://nmap.org/nping/)
 
 ### 容器
 
@@ -196,6 +201,8 @@
 - [API搜索](https://devdocs.io/)
 - [在线工具-程序员工具箱](http://tool.lu/)
 - [选择一个开源软件协议](http://choosealicense.online/)
+- [MikuTools - 工具集合](https://tools.imiku.me/)
+- [DeGraeve Logo Maker](https://www.degraeve.com/)
 
 ### 学习
 
@@ -288,6 +295,7 @@
 ### 电子书网站
 
 - [Z-Library](https://b-ok.cc/)
+- [资源共享网](http://www.86clouds.com/)
 
 ## 软件
 
@@ -344,6 +352,7 @@
 - [dism++](http://www.chuyu.me/zh-Hans/index.html)
 - Total Commander
 - 盘姬工具箱
+- [sysinternals](https://docs.microsoft.com/zh-cn/sysinternals/downloads/)
 
 ### 系统不限
 
@@ -431,4 +440,6 @@
 #### [知乎](page/zhihu.md)
 
 #### [书架](page/books.md)
+
+#### [资源](page/resource.md)
 
