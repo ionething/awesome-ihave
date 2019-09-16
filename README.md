@@ -327,11 +327,15 @@
 
 ### chrome插件
 
-- 油猴脚本
-- Proxy SwithyOmega
+- [油猴脚本 tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+- [Proxy SwithyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)
 - Octotree
-- FireShot
+- [FireShot](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg)
 - Pocket
+- 下载+
+- GayHub
+- Wappalyzer
+- Fika
 
 ### windows
 
