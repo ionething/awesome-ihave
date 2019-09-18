@@ -329,6 +329,7 @@
 
 - [Z-Library](https://b-ok.cc/)
 - [资源共享网](http://www.86clouds.com/)
+- [书栈网](https://www.bookstack.cn/)
 - [计算机电子书](https://github.com/it-ebooks/)
 
 ### 其他
