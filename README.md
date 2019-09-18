@@ -253,6 +253,8 @@
 - [Gitbook@wizardforcel](https://legacy.gitbook.com/@wizardforcel)
 - [书栈网](https://www.bookstack.cn/)
 - [语鹊](https://www.yuque.com/)
+- [维基教科书](https://zh.wikibooks.org/wiki/Wikibooks:%E9%A6%96%E9%A1%B5) 计算机[中文](https://zh.wikibooks.org/wiki/Subject:%E8%A8%88%E7%AE%97%E6%A9%9F%E7%A7%91%E5%AD%B8) [英文](https://en.wikibooks.org/wiki/Subject:Computing)
+- [一份关于“资料汇总”的汇总](https://github.com/justjavac/awesome-awesomeness-zh_CN)
 
 ### 期刊
 
@@ -277,6 +279,7 @@
 ### 前端
 
 - [阮一峰JavaScript](http://javascript.ruanyifeng.com/)
+- [Flutter实战](https://github.com/flutterchina/flutter-in-action)
 
 ### 后端
 
@@ -314,10 +317,22 @@
 - [全栈增长工程师指南](https://github.com/phodal/growth-ebook)
 - [程序员效率提升工具汇总](https://www.kancloud.cn/maozhenggang/monkey-cheats/93898)
 
+### 电子书资源
+
+- [计算机经典书籍推荐 部分书籍提供PDF下载](https://github.com/woai3c/recommended-books) [另见百度云](https://github.com/it-ebooks/recommended-books)
+- [PUA 书籍](https://github.com/it-ebooks/pua-books)
+- [【编程随想】收藏的电子书清单](https://github.com/programthink/books)
+- [ 经典技术书籍 PDF 文件](https://github.com/it-ebooks/awesome-programming-books)
+
 ### 电子书网站
 
 - [Z-Library](https://b-ok.cc/)
 - [资源共享网](http://www.86clouds.com/)
+- [计算机电子书](https://github.com/it-ebooks/)
+
+### 其他
+
+- [图灵社区](https://www.ituring.com.cn/book)
 
 ## 软件
 
