@@ -145,6 +145,7 @@
 
 ### 论坛/网站
 
+- [OI Wiki](https://oi-wiki.org/)
 - [Java社区](http://www.oracle.com/technetwork/cn/community/java/index.html)
 - [IBM技术论坛](https://www.ibm.com/developerworks/cn/topics/)
 - [云栖社区](https://yq.aliyun.com/)
@@ -278,6 +279,8 @@
 - [阮一峰JavaScript](http://javascript.ruanyifeng.com/)
 
 ### 后端
+
+- [深入浅出分布式基础架构](https://github.com/wx-chevalier/Distributed-Infrastructure-Series)
 
 ### 操作系统
 

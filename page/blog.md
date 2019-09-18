@@ -18,9 +18,16 @@
 
 ### 经典
 
+- 阮一峰
+- 廖雪峰
+
 ### 技术
 
 - [哈嘿！](https://www.hahack.com/)
+- [某熊的技术之路](https://wx-chevalier.github.io/)
+- [Hollis](http://www.hollischuang.com/)
+- [stormzhang](http://stormzhang.com/)
+- [程序猿DD](http://blog.didispace.com/)
 
 ### 折腾
 
@@ -32,6 +39,7 @@
 ### 精选
 
 - [掘金精选](https://segmentfault.com/blog/juejin)
+- [HELLOGITHUB](https://github.com/521xueweihan/HelloGitHub)
 
 ### 架构
 
