@@ -298,6 +298,7 @@
 - [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-CN.md)
 - [南瓜书](https://github.com/datawhalechina/pumpkin-book) 《机器学习》（西瓜书）公式推导解析
 - [网络基本功系列](https://wizardforcel.gitbooks.io/network-basic/content/index.html)
+- [编程语言语法基础与工程实践](https://ngte-pl.gitbook.io/i/)
 
 ### 算法
 
