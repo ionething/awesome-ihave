@@ -323,6 +323,7 @@
 - [PUA 书籍](https://github.com/it-ebooks/pua-books)
 - [【编程随想】收藏的电子书清单](https://github.com/programthink/books)
 - [ 经典技术书籍 PDF 文件](https://github.com/it-ebooks/awesome-programming-books)
+- [Java编程书籍收集分享](https://github.com/RongleXie/java-books-collections)
 
 ### 电子书网站
 
