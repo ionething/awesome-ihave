@@ -204,6 +204,12 @@
 - [MikuTools - 工具集合](https://tools.imiku.me/)
 - [DeGraeve Logo Maker](https://www.degraeve.com/)
 
+### 图床
+
+- [SM.MS](https://sm.ms/)
+- [imgchr.com](https://imgchr.com/)
+- [后端云](https://www.bmob.cn/)
+
 ### 学习
 
 - [力扣](https://leetcode-cn.com/)
@@ -348,6 +354,7 @@
 - GayHub
 - Wappalyzer
 - Fika
+- Web Clipper
 
 ### windows
 
