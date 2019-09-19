@@ -271,6 +271,7 @@
 - [C++并发编程(中文版)](https://legacy.gitbook.com/book/chenxiaowei/cpp_concurrency_in_action/details)
 - [C++ Primer Plus （第 6 版）中文版](https://shenjun.gitbooks.io/c-primer-plus/content/)
 - [Boost C++库](https://wizardforcel.gitbooks.io/the-boost-cpp-libraries/content/index.html)
+- [On Java 8（《Java编程思想》 第5版 ）](https://github.com/LingCoder/OnJava8)
 
 ### Web
 
