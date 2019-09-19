@@ -24,10 +24,12 @@
 - Bulma [阮一峰：CSS 框架 Bulma 教程](http://www.ruanyifeng.com/blog/2017/10/bulma.html)
 - webpack [中文网](https://www.webpackjs.com/)
 - [拼图](http://www.pintuer.com/)
+- [Tabler](https://github.com/tabler/tabler)
 
 ### Node
 
 - nrm - 一键切换npm源
+- [date-fns](https://github.com/date-fns/date-fns)
 
 ### C/C++
 
@@ -205,6 +207,7 @@
 - [MikuTools - 工具集合](https://tools.imiku.me/)
 - [DeGraeve Logo Maker](https://www.degraeve.com/)
 - [码工具](http://www.matools.com/)
+- [Linux命令大全搜索工具](https://github.com/jaywcjlove/linux-command)
 
 ### 图床
 
@@ -291,6 +294,7 @@
 ### 操作系统
 
 - [Linux就该这么学](https://www.linuxprobe.com/chapter-00.html)
+- [超赞的 Linux 软件](https://alim0x.gitbooks.io/awesome-linux-software-zh_cn/content/)
 
 ### 手册
 
@@ -307,6 +311,7 @@
 - [南瓜书](https://github.com/datawhalechina/pumpkin-book) 《机器学习》（西瓜书）公式推导解析
 - [网络基本功系列](https://wizardforcel.gitbooks.io/network-basic/content/index.html)
 - [编程语言语法基础与工程实践](https://ngte-pl.gitbook.io/i/)
+- [GitHub 漫游指南](http://github.phodal.com/#readme)
 - [FPGA并行编程](https://xupsh.gitbook.io/pp4fpgas-cn/readme/readme)
 
 ### 算法
@@ -320,6 +325,8 @@
 - [为程序员编写的英语学习指南](https://github.com/yujiangshui/A-Programmers-Guide-to-English)
 - [全栈增长工程师指南](https://github.com/phodal/growth-ebook)
 - [程序员效率提升工具汇总](https://www.kancloud.cn/maozhenggang/monkey-cheats/93898)
+- [一个全栈工程师的工具箱](http://toolbox.phodal.com/)
+- [程序员的自我修养](https://leohxj.gitbooks.io/a-programmer-prepares/content/index.html)
 
 ### 电子书资源
 
@@ -334,11 +341,14 @@
 - [Z-Library](https://b-ok.cc/)
 - [资源共享网](http://www.86clouds.com/)
 - [书栈网](https://www.bookstack.cn/)
+- [Doocs](https://github.com/doocs)
+- [伯乐在线](https://github.com/jobbole)
 - [计算机电子书](https://github.com/it-ebooks/)
 
 ### 其他网站资源
 
 - [图灵社区](https://www.ituring.com.cn/book)
+- [程序员必读书单 1.0](http://lucida.me/blog/developer-reading-list/)
 
 ## 软件
 
