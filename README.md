@@ -66,6 +66,7 @@
 
 - [Apollo（阿波罗）](https://github.com/ctripcorp/apollo)
 - [Saturn](https://github.com/vipshop/Saturn) - 唯品会分布式任务调度平台，在当当的elastic-job的基础上开发
+- [TencentOS-tiny](https://github.com/Tencent/TencentOS-tiny) - 腾讯物联网终端操作系统
 
 ### Gitee
 
@@ -173,7 +174,6 @@
 - [微软官方文档](https://docs.microsoft.com/zh-cn/)
 - [MDN web docs](https://developer.mozilla.org/zh-CN/)
 - [腾讯云开发者手册](https://cloud.tencent.com/developer/devdocs)
-
 - [思否](https://docs.segmentfault.com/)
 - [阿里云-云栖-开发者资源](https://help.aliyun.com/learn/developer.html)
 - [Google中国开发者](https://developers.google.cn/china/)
