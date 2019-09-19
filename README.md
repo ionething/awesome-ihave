@@ -299,7 +299,6 @@
 - [阿里云Redis规范](https://yq.aliyun.com/articles/531067)
 - [Google Style Guides](https://github.com/google/styleguide)
 - [Google 开源项目风格指南 (中文版)](https://zh-google-styleguide.readthedocs.io/en/latest/)  托管在[GitHub](https://github.com/zh-google-styleguide/zh-google-styleguide)
-
 - [C++ 参考手册](https://zh.cppreference.com/w/cpp)
 
 ### 其他
@@ -308,11 +307,13 @@
 - [南瓜书](https://github.com/datawhalechina/pumpkin-book) 《机器学习》（西瓜书）公式推导解析
 - [网络基本功系列](https://wizardforcel.gitbooks.io/network-basic/content/index.html)
 - [编程语言语法基础与工程实践](https://ngte-pl.gitbook.io/i/)
+- [FPGA并行编程](https://xupsh.gitbook.io/pp4fpgas-cn/readme/readme)
 
 ### 算法
 
 - [编程之法：面试和算法心得](https://wizardforcel.gitbooks.io/the-art-of-programming-by-july/content/)
 - [十大经典排序算法](https://sort.hust.cc/)
+- [ACM book](https://hrbust-acm-team.gitbooks.io/acm-book/content/)
 
 ### 技能
 
@@ -335,7 +336,7 @@
 - [书栈网](https://www.bookstack.cn/)
 - [计算机电子书](https://github.com/it-ebooks/)
 
-### 其他
+### 其他网站资源
 
 - [图灵社区](https://www.ituring.com.cn/book)
 
