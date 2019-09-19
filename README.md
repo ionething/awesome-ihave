@@ -272,6 +272,7 @@
 - [C++ Primer Plus （第 6 版）中文版](https://shenjun.gitbooks.io/c-primer-plus/content/)
 - [Boost C++库](https://wizardforcel.gitbooks.io/the-boost-cpp-libraries/content/index.html)
 - [On Java 8（《Java编程思想》 第5版 ）](https://github.com/LingCoder/OnJava8)
+- [Python Cookbook 3rd Edition Documentation](https://python3-cookbook.readthedocs.io/zh_CN/latest/index.html)
 
 ### Web
 
