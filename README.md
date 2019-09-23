@@ -436,6 +436,8 @@
 - JProfile - JVM分析工具
 - ZeroBrane
 - Kettle
+- [sequelpro](https://sequelpro.com/) 据说非常好用并开源Mac的MySQL客户端
+- 
 
 ### Idea/pc/goland插件
 
