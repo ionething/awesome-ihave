@@ -291,6 +291,7 @@
 
 - [深入浅出分布式基础架构](https://github.com/wx-chevalier/Distributed-Infrastructure-Series)
 - [Elasticsearch: 权威指南](https://www.elastic.co/guide/cn/elasticsearch/guide/current/index.html) [Elasticsearch 权威指南（中文版）](https://es.xiaoleilu.com/)
+- [Elastic Stack](https://zturn.cc/elkbook/)
 
 ### 操作系统
 
