@@ -290,7 +290,7 @@
 ### 后端
 
 - [深入浅出分布式基础架构](https://github.com/wx-chevalier/Distributed-Infrastructure-Series)
-- [Elasticsearch: 权威指南](https://www.elastic.co/guide/cn/elasticsearch/guide/current/index.html)
+- [Elasticsearch: 权威指南](https://www.elastic.co/guide/cn/elasticsearch/guide/current/index.html) [Elasticsearch 权威指南（中文版）](https://es.xiaoleilu.com/)
 
 ### 操作系统
 
@@ -439,7 +439,6 @@
 - ZeroBrane
 - Kettle
 - [sequelpro](https://sequelpro.com/) 据说非常好用并开源Mac的MySQL客户端
-- 
 
 ### Idea/pc/goland插件
 
