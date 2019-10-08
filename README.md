@@ -297,6 +297,7 @@
 
 - [Linux就该这么学](https://www.linuxprobe.com/chapter-00.html)
 - [超赞的 Linux 软件](https://alim0x.gitbooks.io/awesome-linux-software-zh_cn/content/)
+- [Linux性能调优指南](https://lihz1990.gitbooks.io/transoflptg/content/)
 
 ### 手册
 
