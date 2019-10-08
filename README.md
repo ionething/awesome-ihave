@@ -290,6 +290,7 @@
 ### 后端
 
 - [深入浅出分布式基础架构](https://github.com/wx-chevalier/Distributed-Infrastructure-Series)
+- [Elasticsearch: 权威指南](https://www.elastic.co/guide/cn/elasticsearch/guide/current/index.html)
 
 ### 操作系统
 
@@ -313,6 +314,7 @@
 - [编程语言语法基础与工程实践](https://ngte-pl.gitbook.io/i/)
 - [GitHub 漫游指南](http://github.phodal.com/#readme)
 - [FPGA并行编程](https://xupsh.gitbook.io/pp4fpgas-cn/readme/readme)
+- [这本书能让你连接互联网](https://hoodiearon.github.io/fq-book/#/)
 
 ### 算法
 
