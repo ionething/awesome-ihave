@@ -295,9 +295,14 @@
 
 ### 操作系统
 
-- [Linux就该这么学](https://www.linuxprobe.com/chapter-00.html)
+- [Linux 就该这么学](https://www.linuxprobe.com/chapter-00.html)
 - [超赞的 Linux 软件](https://alim0x.gitbooks.io/awesome-linux-software-zh_cn/content/)
-- [Linux性能调优指南](https://lihz1990.gitbooks.io/transoflptg/content/)
+- [Linux 性能调优指南](https://lihz1990.gitbooks.io/transoflptg/content/)
+- [Java 程序员眼中的 Linux](https://github.com/judasn/Linux-Tutorial)
+
+### 大数据
+
+- [Spark 编程指南简体中文版](https://aiyanbo.gitbooks.io/spark-programming-guide-zh-cn/content/)
 
 ### 手册
 

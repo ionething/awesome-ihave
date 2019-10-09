@@ -34,6 +34,10 @@
 - [小z博客](https://www.xiaoz.me/) 生命不息，吾将折腾不止。
 - [SaoDaye](https://saodaye.com/)
 
+### 笔记
+
+- [nieyong Linux CPU](https://nieyong.github.io/)
+
 ## 合集
 
 ### 精选
