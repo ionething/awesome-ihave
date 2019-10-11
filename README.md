@@ -353,6 +353,7 @@
 - [Doocs](https://github.com/doocs)
 - [伯乐在线](https://github.com/jobbole)
 - [计算机电子书](https://github.com/it-ebooks/)
+- [苦瓜书盘](https://www.kgbook.com/)
 
 ### 其他网站资源
 
