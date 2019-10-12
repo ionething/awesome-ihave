@@ -293,6 +293,7 @@
 - [深入浅出分布式基础架构](https://github.com/wx-chevalier/Distributed-Infrastructure-Series)
 - [Elasticsearch: 权威指南](https://www.elastic.co/guide/cn/elasticsearch/guide/current/index.html) [Elasticsearch 权威指南（中文版）](https://es.xiaoleilu.com/)
 - [Elastic Stack](https://zturn.cc/elkbook/)
+- [Redis 设计与实现](https://github.com/huangz1990/redisbook) [网站](http://redisbook.com/)
 
 ### 操作系统
 
@@ -313,6 +314,7 @@
 - [Google Style Guides](https://github.com/google/styleguide)
 - [Google 开源项目风格指南 (中文版)](https://zh-google-styleguide.readthedocs.io/en/latest/)  托管在[GitHub](https://github.com/zh-google-styleguide/zh-google-styleguide)
 - [C++ 参考手册](https://zh.cppreference.com/w/cpp)
+- [Redis 命令参考](http://redisdoc.com/)
 
 ### 其他
 
