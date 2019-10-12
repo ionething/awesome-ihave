@@ -99,12 +99,20 @@
 
 - [snapcraft](https://snapcraft.io/) - 就是墙内速度有点慢
 - [nmap](https://nmap.org/) [ncat](https://nmap.org/ncat/) [nping](https://nmap.org/nping/)
+- ClushShell
 
 ### 容器
 
 - Docker
 - Docker Compose
 - Portainer
+
+### 面板
+
+- [Cockpit](https://cockpit-project.org/)
+- [Webmin](http://www.webmin.com/)
+- [linux-dash](https://github.com/afaqurk/linux-dash) [汉化版](https://github.com/NoBey/linux-dash-zh)
+- [NetData](https://github.com/netdata/netdata)
 
 ### 桌面
 
