@@ -325,6 +325,7 @@
 - [GitHub 漫游指南](http://github.phodal.com/#readme)
 - [FPGA并行编程](https://xupsh.gitbook.io/pp4fpgas-cn/readme/readme)
 - [这本书能让你连接互联网](https://hoodiearon.github.io/fq-book/#/)
+- [爬虫之路](https://kosmoscosmos.gitbooks.io/the-way-to-spyider/)
 
 ### 算法
 
