@@ -10,6 +10,8 @@
 
 - [mvnrepository](http://mvnrepository.com/)
 - [vjtools](https://github.com/vipshop/vjtools/)
+- Netty
+- Quartz
 
 ### Golang
 
@@ -43,8 +45,6 @@
 
 ## 开源项目
 
-> 有的开源项目也常用作生产级别的中间件，优先展示开源
-
 ### 社区
 
 - [Apache](https://github.com/apache)
@@ -74,19 +74,64 @@
 
 ### 其他
 
+- [light-4j](https://doc.networknt.com/)
+
 ## 数据库和中间件
 
-### 常用
+### 数据库
 
-- Consul
+### NoSQL
+
+- Mongo
+
+### 缓存
+
+- Redis
+- memcached
+
+### 消息队列
+
+- RabbitMQ
+- Kafka
+- RocketMQ
+- ActiveMQ
+- ZeroMQ
+- MetaMQ
+- MQTT
+- HiveMQ
+- [Nanomsg](https://nanomsg.org/)
 
 ### RPC
 
+- [Thrift](https://thrift.apache.org/)
+- [gRpc](https://grpc.io/)
+- [Dubbo](https://dubbo.apache.org/zh-cn/) - 高性能、轻量级的开源 Java RPC 框架，阿里开源，Apache项目
+- [motan](https://github.com/weibocom/motan)
+- [brpc](https://github.com/apache/incubator-brpc) - 百度内最常使用的工业级 RPC 框架
+
 ### 微服务
 
-### 数据库类
+- Consul
+- Hystrix
+- Zipkin
+
+### 分布式
+
+- Zookeeper
+
+### 分库分表
 
 - MyCat
+
+### 通信代理
+
+- Envoy
+- HAProxy
+- Nginx
+
+### 搜索引擎
+
+- ElasticSearch
 
 ## Linux
 
@@ -107,6 +152,10 @@
 - Docker Compose
 - Portainer
 
+### 高可用
+
+- Keepalived
+
 ### 面板
 
 - [Cockpit](https://cockpit-project.org/)
@@ -115,6 +164,23 @@
 - [NetData](https://github.com/netdata/netdata)
 
 ### 桌面
+
+## 技术栈
+
+### 高可用
+
+- Nginx/HAProxy+Keepalived
+- LVS+Keepalived
+
+### 应用
+
+- spring boot / cloud
+
+### 服务
+
+### 运维
+
+- [elk-stack](https://www.elastic.co/cn/what-is/elk-stack)
 
 ## Awesome
 
@@ -290,6 +356,7 @@
 ### Web
 
 - [Nginx开发从入门到精通](http://tengine.taobao.org/book/index.html)
+- [Envoy 官方文档中文版](https://www.servicemesher.com/envoy/)
 
 ### 前端
 
