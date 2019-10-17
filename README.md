@@ -233,7 +233,8 @@
 - [伯乐在线](http://www.jobbole.com/)
 - [Java1234](http://www.java1234.com/)
 - [运维生存时间](http://www.ttlsa.com/)
-- [Linux中国](https://linux.cn/)
+- [Linux 中国](https://linux.cn/)
+- [Java 菜市场](https://www.javaweb.shop/)
 
 ### 博客
 
@@ -351,6 +352,7 @@
 - [C++ Primer Plus （第 6 版）中文版](https://shenjun.gitbooks.io/c-primer-plus/content/)
 - [Boost C++库](https://wizardforcel.gitbooks.io/the-boost-cpp-libraries/content/index.html)
 - [On Java 8（《Java编程思想》 第5版 ）](https://github.com/LingCoder/OnJava8)
+- [effective-java-3rd 中文版](https://github.com/sjsdfg/effective-java-3rd-chinese)
 - [Python Cookbook 3rd Edition Documentation](https://python3-cookbook.readthedocs.io/zh_CN/latest/index.html)
 
 ### Web
