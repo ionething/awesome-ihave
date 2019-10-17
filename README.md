@@ -404,6 +404,7 @@
 - [FPGA并行编程](https://xupsh.gitbook.io/pp4fpgas-cn/readme/readme)
 - [这本书能让你连接互联网](https://hoodiearon.github.io/fq-book/#/)
 - [爬虫之路](https://kosmoscosmos.gitbooks.io/the-way-to-spyider/)
+- [图说设计模式](https://github.com/me115/design_patterns)
 
 ### 算法
 
