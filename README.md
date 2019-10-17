@@ -378,6 +378,7 @@
 - [超赞的 Linux 软件](https://alim0x.gitbooks.io/awesome-linux-software-zh_cn/content/)
 - [Linux 性能调优指南](https://lihz1990.gitbooks.io/transoflptg/content/)
 - [Java 程序员眼中的 Linux](https://github.com/judasn/Linux-Tutorial)
+- [Linux工具快速教程](https://github.com/me115/linuxtools_rst)
 
 ### 大数据
 
