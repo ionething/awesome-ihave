@@ -89,6 +89,12 @@
 - Redis
 - memcached
 
+### CDN缓存
+
+- squid
+- Vanish
+- ATS
+
 ### 消息队列
 
 - RabbitMQ
@@ -123,11 +129,12 @@
 
 - MyCat
 
-### 通信代理
+### 静态服/代理
 
 - Envoy
 - HAProxy
 - Nginx
+- Caddy
 
 ### 搜索引擎
 
@@ -155,6 +162,7 @@
 ### 高可用
 
 - Keepalived
+- Heartbeat
 
 ### 面板
 
@@ -163,20 +171,32 @@
 - [linux-dash](https://github.com/afaqurk/linux-dash) [汉化版](https://github.com/NoBey/linux-dash-zh)
 - [NetData](https://github.com/netdata/netdata)
 
+### 备份恢复
+
+### 监控
+
+### 分布式
+
 ### 桌面
+
+### 加速器
+
+- bbr
 
 ## 技术栈
 
 ### 高可用
 
 - Nginx/HAProxy+Keepalived
-- LVS+Keepalived
+- LVS+Keepalived 
 
 ### 应用
 
 - spring boot / cloud
 
 ### 服务
+
+- MySQL + heartbeat + DRBD + LVS
 
 ### 运维
 
