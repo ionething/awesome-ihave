@@ -38,6 +38,8 @@
 - [Boost](https://www.boost.org/) 准STL
 - [spdlog](https://github.com/gabime/spdlog) Fast C++ logging library
 - [libevent](https://libevent.org/) [开源](https://github.com/libevent/libevent)的事件驱动事件通知库
+- [protobuf](https://github.com/protocolbuffers/protobuf)
+- [rapidjson ](https://github.com/Tencent/rapidjson)
 
 ### Vue
 
@@ -80,6 +82,9 @@
 
 ### 数据库
 
+- MySQL
+-  [TiDB](https://github.com/pingcap/tidb)
+
 ### NoSQL
 
 - Mongo
@@ -114,6 +119,7 @@
 - [Dubbo](https://dubbo.apache.org/zh-cn/) - 高性能、轻量级的开源 Java RPC 框架，阿里开源，Apache项目
 - [motan](https://github.com/weibocom/motan)
 - [brpc](https://github.com/apache/incubator-brpc) - 百度内最常使用的工业级 RPC 框架
+- [Tars](https://github.com/TarsCloud/Tars)
 
 ### 微服务
 
