@@ -594,6 +594,7 @@
 - [Awesome Mac](https://github.com/jaywcjlove/awesome-mac)
 - [windows apps that amaze us](https://amazing-apps.gitbook.io/windows-apps-that-amaze-us)
 - [Mac 软件目录，优秀 Mac 软件都在这！](https://mp.weixin.qq.com/s/jIJ5Rd53EEuMTvYy4p7ZiQ)
+- [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps)
 
 ### 站点
 
