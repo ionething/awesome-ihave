@@ -397,6 +397,7 @@
 - [Elasticsearch: 权威指南](https://www.elastic.co/guide/cn/elasticsearch/guide/current/index.html) [Elasticsearch 权威指南（中文版）](https://es.xiaoleilu.com/)
 - [Elastic Stack](https://zturn.cc/elkbook/)
 - [Redis 设计与实现](https://github.com/huangz1990/redisbook) [网站](http://redisbook.com/)
+- [Logstash 最佳实践](http://doc.yonyoucloud.com/doc/logstash-best-practice-cn/index.html)
 
 ### 操作系统
 
