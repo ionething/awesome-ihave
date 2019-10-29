@@ -398,6 +398,8 @@
 - [Elastic Stack](https://zturn.cc/elkbook/)
 - [Redis 设计与实现](https://github.com/huangz1990/redisbook) [网站](http://redisbook.com/)
 - [Logstash 最佳实践](http://doc.yonyoucloud.com/doc/logstash-best-practice-cn/index.html)
+- [ELKstack 中文指南](https://elkguide.elasticsearch.cn/logstash/)
+- [ELK中文手册](https://www.kancloud.cn/hanxt/elk/153883)
 
 ### 操作系统
 
