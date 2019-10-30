@@ -421,7 +421,7 @@
 - [Google Style Guides](https://github.com/google/styleguide)
 - [Google 开源项目风格指南 (中文版)](https://zh-google-styleguide.readthedocs.io/en/latest/)  托管在[GitHub](https://github.com/zh-google-styleguide/zh-google-styleguide)
 - [C++ 参考手册](https://zh.cppreference.com/w/cpp)
-- [Redis 命令参考](http://redisdoc.com/)
+- [Redis 命令参考](http://redisdoc.com/) [另见](http://doc.redisfans.com)
 
 ### 其他
 
