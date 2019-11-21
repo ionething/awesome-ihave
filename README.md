@@ -579,6 +579,7 @@
 ### 仅供学习
 
 - [xclient.info](https://xclient.info) - 针对Mac用户，不知道上面有什么东西
+- [苹果软件盒子](https://www.macappbox.com/)
 - [idea.lanyus.com](http://idea.lanyus.com/) - 应该能用，good idea
 - [baofengjihuo.com](http://www.baofengjihuo.com/) - 还活着，有没有后门就不知道了
 
