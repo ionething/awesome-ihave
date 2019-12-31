@@ -378,7 +378,7 @@
 - [C++ Primer Plus （第 6 版）中文版](https://shenjun.gitbooks.io/c-primer-plus/content/)
 - [Boost C++库](https://wizardforcel.gitbooks.io/the-boost-cpp-libraries/content/index.html)
 - [On Java 8（《Java编程思想》 第5版 ）](https://github.com/LingCoder/OnJava8)
-- [effective-java-3rd 中文版](https://github.com/sjsdfg/effective-java-3rd-chinese)
+- [effective-java-3rd 中文版](https://github.com/sjsdfg/effective-java-3rd-chinese) [还有一版](https://github.com/clxering/Effective-Java-3rd-edition-Chinese-English-bilingual)
 - [Python Cookbook 3rd Edition Documentation](https://python3-cookbook.readthedocs.io/zh_CN/latest/index.html)
 
 ### Web
@@ -400,6 +400,10 @@
 - [Logstash 最佳实践](http://doc.yonyoucloud.com/doc/logstash-best-practice-cn/index.html)
 - [ELKstack 中文指南](https://elkguide.elasticsearch.cn/logstash/)
 - [ELK中文手册](https://www.kancloud.cn/hanxt/elk/153883)
+
+### 架构
+
+- [领域驱动设计 中文](http://gdut_yy.gitee.io/doc-ddd/)
 
 ### 操作系统
 
