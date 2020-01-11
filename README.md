@@ -412,6 +412,7 @@
 - [Linux 性能调优指南](https://lihz1990.gitbooks.io/transoflptg/content/)
 - [Java 程序员眼中的 Linux](https://github.com/judasn/Linux-Tutorial)
 - [Linux工具快速教程](https://github.com/me115/linuxtools_rst)
+- [征服 Linux](https://www.bookstack.cn/read/Conquer-Linux/README.md)
 
 ### 大数据
 
